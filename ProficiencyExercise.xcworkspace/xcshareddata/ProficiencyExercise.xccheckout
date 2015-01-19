@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E6C2A9F-34AF-42F2-AC50-CC66C7C0D5A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProficiencyExercise</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF51D6BB34C9D047A6316B00C460D58957D0084A</key>
+		<string>https://github.com/Morgan-Kennedy/MJKProficiencyExercise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProficiencyExercise.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF51D6BB34C9D047A6316B00C460D58957D0084A</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Morgan-Kennedy/MJKProficiencyExercise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF51D6BB34C9D047A6316B00C460D58957D0084A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF51D6BB34C9D047A6316B00C460D58957D0084A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MJKProficiencyExercise</string>
+		</dict>
+	</array>
+</dict>
+</plist>
